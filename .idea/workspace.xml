@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="838ba624-c133-4b64-a204-36dcb9b482b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simplephpapp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/browser.min.js" afterPath="$PROJECT_DIR$/assets/js/browser.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" afterPath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/history.html" afterPath="$PROJECT_DIR$/history.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/sass/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prtavaressite.html" afterPath="$PROJECT_DIR$/prtavaressite.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="$PROJECT_DIR$/assets/js/util.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yellowfishsite.html" afterPath="$PROJECT_DIR$/yellowfishsite.html" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,20 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="8415">
-              <caret line="96" column="24" selection-start-line="95" selection-start-column="19" selection-end-line="96" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.95527524" vertical-offset="697" max-vertical-offset="8398">
+              <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simplephpapp.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simplephpapp.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simplephpapp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70183486" vertical-offset="527" max-vertical-offset="7259">
+            <state vertical-scroll-proportion="-25.5" vertical-offset="476" max-vertical-offset="7259">
               <caret line="67" column="60" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#pre#0;n#article#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -121,8 +102,8 @@
         <option value="$PROJECT_DIR$/history.html" />
         <option value="$PROJECT_DIR$/prtavaressite.html" />
         <option value="$PROJECT_DIR$/yellowfishsite.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/simplephpapp.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -184,7 +165,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/catalgolo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -225,9 +206,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -235,6 +213,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="2">
@@ -307,6 +288,57 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="8415">
+          <caret line="96" column="24" selection-start-line="95" selection-start-column="19" selection-end-line="96" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplephpapp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7259">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#pre#0;n#article#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#code#0;n#pre#0;n#article#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="7412">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prtavaressite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7463">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="433" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yellowfishsite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="7361">
+          <caret line="45" column="80" selection-start-line="45" selection-start-column="77" selection-end-line="45" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="35831" max-vertical-offset="56678">
+          <caret line="2127" column="10" selection-start-line="2127" selection-start-column="7" selection-end-line="2127" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="8415">
@@ -657,22 +689,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="8415">
-          <caret line="96" column="24" selection-start-line="95" selection-start-column="19" selection-end-line="96" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simplephpapp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70183486" vertical-offset="527" max-vertical-offset="7259">
+        <state vertical-scroll-proportion="-25.5" vertical-offset="476" max-vertical-offset="7259">
           <caret line="67" column="60" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#pre#0;n#article#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#code#0;n#pre#0;n#article#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95527524" vertical-offset="697" max-vertical-offset="8398">
+          <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
