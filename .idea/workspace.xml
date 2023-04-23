@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="838ba624-c133-4b64-a204-36dcb9b482b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/Ruben Silva Resume.docx" afterPath="$PROJECT_DIR$/resume/Ruben Silva Resume.docx" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -189,6 +189,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruben\Documents\GitHub\portfolio\resume" />
       <recent name="C:\Users\ruben\Documents\GitHub\portfolio\pdf" />
       <recent name="C:\Users\ruben\Documents\GitHub\portfolio" />
     </key>
