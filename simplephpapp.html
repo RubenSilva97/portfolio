@@ -30,58 +30,49 @@
     <!-- One -->
     <section id="one">
         <header class="major">
-            <h2>History of my craft</h2>
+            <h2>PHP app to check the prices and validate it</h2>
         </header>
-        <p>Since the beginning of my career, I have focused on directing my talent and creativity to obtain effective
-            and meaningful results. I am proud of what I do and the strong partnerships I build with clients and
-            co-workers. I strongly believe in working together, hard and with good humor throughout the process.</p>
-        <ul class="actions">
-            <li><a href="resume/Ruben%20Silva%20Resume.docx" class="button">Download Resume</a></li>
-        </ul>
+        <p>Created this simple App to check if all the costs of the company vehicles driving in the highway were
+            correct. I dont have the file sadly but will leave an example and my logic bellow.</p>
     </section>
 
     <!-- Two -->
-
-
-    <!-- Three -->
-    <section id="three">
-        <h2>Get In Touch</h2>
-
-        <p>Contact me if you interested in my work.</p>
+    <section id="two">
+        <h2></h2>
 
         <div class="row">
-            <!--<div class="col-8 col-12-small">
-            <!--<form method="post" action="#">
-                    <div class="row gtr-uniform gtr-50">
-                        <div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
-                        <div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
-                        <div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
-                    </div>
-                </form>
-                <ul class="actions">
-                    <li><input type="submit" value="Send Message" /></li>
-                </ul>
-            </div>-->
-            <div class="col-4 col-12-small">
-                <ul class="labeled-icons">
-                    <li>
-                        <h3 class="icon solid fa-home"><span class="label">Address</span></h3>
-                        Zona Industrial de Lagoa, Cerca da lapa, Salicos<br/>
-                        Lagoa, 8400-424<br/>
-                        Portugal
-                    </li>
-                    <li>
-                        <h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
-                        (+351)968-339-683
-                    </li>
-                    <li>
-                        <h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
-                        <a href="#">rubenarruda@gmail.com</a>
-                    </li>
-                </ul>
-            </div>
+            <article class="col-6 col-12-xsmall work-item">
+                <h3>creating the upload page</h3>
+
+                <p>First create a simple upload form for the file (in this case csv file).</p>
+
+                <p>
+                            <pre style="margin-bottom: -50px;">
+                                <code style="width: 1000px;">
+&lt;form action="" method="post" enctype="multipart/form-data"&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;input type="file" id="customFileInput" name="file"&gt;
+&lt;label for="customFileInput"&gt;Select File:&lt;/label&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;input type="submit" name="submit" value="upload"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/form&gt;
+                                </code>
+                            </pre>
+                </p>
+                <p>After some research there was 2 ways, first i decided to convert csv to excel and it worked but it made my code
+                    complicated and not very simple but then i got a solution from the php documentation.</p>
+                <p>The more clean way i found was from php documentation for a way to upload it since i was having trouble
+                    in uploading it to mysql</p>
+            </article>
         </div>
     </section>
+
+    <!-- Three -->
+
 
     <!-- Four -->
     <!--
